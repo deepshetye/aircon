@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/edtech/static/css/main.91a6a613.chunk.css",
-    "main.js": "/edtech/static/js/main.b2868098.chunk.js",
-    "main.js.map": "/edtech/static/js/main.b2868098.chunk.js.map",
-    "runtime-main.js": "/edtech/static/js/runtime-main.7ad294f8.js",
-    "runtime-main.js.map": "/edtech/static/js/runtime-main.7ad294f8.js.map",
-    "static/js/2.46fda4df.chunk.js": "/edtech/static/js/2.46fda4df.chunk.js",
-    "static/js/2.46fda4df.chunk.js.map": "/edtech/static/js/2.46fda4df.chunk.js.map",
-    "index.html": "/edtech/index.html",
-    "static/css/main.91a6a613.chunk.css.map": "/edtech/static/css/main.91a6a613.chunk.css.map",
-    "static/js/2.46fda4df.chunk.js.LICENSE.txt": "/edtech/static/js/2.46fda4df.chunk.js.LICENSE.txt",
-    "static/media/AirconLogoInBlack.607ac7d7.svg": "/edtech/static/media/AirconLogoInBlack.607ac7d7.svg"
+    "main.css": "/aircon/static/css/main.91a6a613.chunk.css",
+    "main.js": "/aircon/static/js/main.b2868098.chunk.js",
+    "main.js.map": "/aircon/static/js/main.b2868098.chunk.js.map",
+    "runtime-main.js": "/aircon/static/js/runtime-main.1a79ba5d.js",
+    "runtime-main.js.map": "/aircon/static/js/runtime-main.1a79ba5d.js.map",
+    "static/js/2.1c7ffe1e.chunk.js": "/aircon/static/js/2.1c7ffe1e.chunk.js",
+    "static/js/2.1c7ffe1e.chunk.js.map": "/aircon/static/js/2.1c7ffe1e.chunk.js.map",
+    "index.html": "/aircon/index.html",
+    "static/css/main.91a6a613.chunk.css.map": "/aircon/static/css/main.91a6a613.chunk.css.map",
+    "static/js/2.1c7ffe1e.chunk.js.LICENSE.txt": "/aircon/static/js/2.1c7ffe1e.chunk.js.LICENSE.txt",
+    "static/media/AirconLogoInBlack.607ac7d7.svg": "/aircon/static/media/AirconLogoInBlack.607ac7d7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ad294f8.js",
-    "static/js/2.46fda4df.chunk.js",
+    "static/js/runtime-main.1a79ba5d.js",
+    "static/js/2.1c7ffe1e.chunk.js",
     "static/css/main.91a6a613.chunk.css",
     "static/js/main.b2868098.chunk.js"
   ]
