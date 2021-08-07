@@ -29,16 +29,16 @@ const Navbar = ({toggle}) => {
               <NavLinks to="/about">About</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="/about">Products</NavLinks>
+              <NavLinks to="/products">Products</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="/about">Services</NavLinks>
+              <NavLinks to="/services">Services</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="/about">Review</NavLinks>
+              <NavLinks to="/review">Review</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="/about">Contact</NavLinks>
+              <NavLinks to="/contact">Contact</NavLinks>
             </NavItem>
           </NavMenu>
           <NavBtn>
