@@ -18,7 +18,7 @@ const Home = () => {
             <Navbar toggle={toggle} />
             <Switch>
                 <Route exact={true} path="/">
-                    <h1>Hi</h1>
+                    <h1>Yet to be worked on</h1>
                 </Route>
                 <Route path="/about" component={About} />
             </Switch>
