@@ -1,10 +1,12 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import Navbar from "../components/Navbar";
 import Sidebar from "../components/Sidebar";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import About from './About';
+import Home from './Home';
+import Footer from '../components/Footer';
 
-const Home = () => {
+const Main = () => {
 
     const [isOpen, setIsOpen] = useState(false);
 
@@ -15,15 +17,14 @@ const Home = () => {
     return (
         <div>
             <Sidebar isOpen={isOpen} toggle={toggle} />
-            <Navbar toggle={toggle} />
+            <Navbar isOpen={isOpen} toggle={toggle} />
             <Switch>
-                <Route exact={true} path="/">
-                    <h1></h1>
-                </Route>
+                <Route exact={true} path="/" component={Home} />
                 <Route path="/about" component={About} />
             </Switch>
+            <Footer />
         </div>
     )
 }
 
-export default Home
+export default Main
