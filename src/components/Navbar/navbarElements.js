@@ -96,9 +96,10 @@ export const NavBtnLink = styled(Link)`
     border-radius : 50px;
     background : linear-gradient(to top right, #000099 0%, #3366ff 100%);
     white-space : no-wrap;
-    padding : 10px 22px;
+    padding : 1rem 22px;
     color : white;
     font-size : 15px;
+    height: auto;
     outline : none;
     border : none;
     cursor : pointer;
@@ -106,7 +107,7 @@ export const NavBtnLink = styled(Link)`
     text-decoration : none;
 
     &:hover {
-        transition : all 0.2s ease-in-out;
+        transform : all 0.2s ease-in-out;
         background : #000;
         color : #fff;
 

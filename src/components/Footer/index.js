@@ -20,12 +20,6 @@ const Footer = () => {
                                 1C, Ballygunge Circular Road
                                 Kolkata - 700019
                             </text>
-                            {/* <FooterUL>
-                                <FooterLI><FooterAnchor href="#">Hi</FooterAnchor></FooterLI>
-                                <FooterLI><FooterAnchor href="#">Hi</FooterAnchor></FooterLI>
-                                <FooterLI><FooterAnchor href="#">HI</FooterAnchor></FooterLI>
-                                <FooterLI><FooterAnchor href="#">Hi</FooterAnchor></FooterLI>
-                            </FooterUL> */}
                         </FooterColumn>
                         <FooterColumn>
                             <FooterH4>Company</FooterH4>
@@ -39,10 +33,10 @@ const Footer = () => {
                         <FooterColumn>
                             <FooterH4>Contact</FooterH4>
                             <FooterUL>
-                                <FooterLI><i className='bx bx-fw bx-envelope bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="#">aircon@gmail.com</FooterAnchor></FooterLI>
-                                <FooterLI><i className='bx bx-fw bxs-phone bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="#">0832-</FooterAnchor></FooterLI>
-                                <FooterLI><i className='bx bx-fw bxs-phone bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="#">8888807238</FooterAnchor></FooterLI>
-                                <FooterLI><i className='bx bx-fw bxs-phone bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="#">8888807239</FooterAnchor></FooterLI>
+                                <FooterLI><i className='bx bx-fw bx-envelope bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="mailto:airconengineering@gmail.com">airconengineering@gmail.com</FooterAnchor></FooterLI>
+                                <FooterLI><i className='bx bx-fw bxs-phone bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="tel:+0832">0832-</FooterAnchor></FooterLI>
+                                <FooterLI><i className='bx bx-fw bxs-phone bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="tel:+918888807238">8888807238</FooterAnchor></FooterLI>
+                                <FooterLI><i className='bx bx-fw bxs-phone bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="tel:+918888807239">8888807239</FooterAnchor></FooterLI>
                                 {/* <FooterLI><i className='bx bx-fw bxs-phone bx-tada-hover' style={{color:'#ffffff'}} /><FooterAnchor href="#">8888807237</FooterAnchor></FooterLI> */}
                             </FooterUL>
                         </FooterColumn>
